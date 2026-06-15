@@ -1,1 +1,1 @@
-### Objecting-Machine (oaio).
+### Objecting-Machine (oaio)
